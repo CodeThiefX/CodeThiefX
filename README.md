@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm CodeThiefX! 👋
 
 I'm a passionate software developer with a strong foundation in backend and frontend technologies. I love creating efficient and user-friendly applications. Here's a glimpse of my skills:
 
