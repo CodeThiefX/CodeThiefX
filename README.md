@@ -28,6 +28,7 @@ I'm a passionate software developer with a strong foundation in backend and fron
 ### UI Frameworks  
 <p>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass" /></a>
 </p>
 
 ### Desktop & Mobile App Development  
@@ -50,7 +51,6 @@ Let's build something amazing together! 🚀
 
 <!-- GITHUB_STATS:START -->  
 
-[![CodeThiefX's GitHub stats](https://github-readme-stats.vercel.app/api?username=codethiefx&show_icons=true&include_all_commits=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&text_bold=false&title_color=58a5fe)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codethiefx&hide_progress=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&title_color=58a5fe&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!-- GITHUB_STATS:END -->  
