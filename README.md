@@ -1,15 +1,8 @@
 ## Hello, I'm CodeThiefX! 👋  
 
-I'm a passionate software developer with a strong foundation in backend and frontend technologies. I love creating efficient and user-friendly applications. Here's a glimpse of my skills:
+I'm a passionate software developer with a strong foundation in frontend technologies. I love creating efficient and user-friendly applications. Here's a glimpse of my skills:
 
-## 🚀 Skills  
-
-### Backend Development  
-<p>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" /></a>
-</p>
+## 🚀 Skills 
 
 ### Frontend Development  
 <p>
@@ -38,7 +31,6 @@ I'm a passionate software developer with a strong foundation in backend and fron
 </p>
 
 ## 🎯 What I Love Working On  
-- Building scalable and robust backend systems  
 - Crafting interactive and responsive user interfaces  
 - Creating custom Telegram bots for automation  
 - Developing cross-platform apps using Flutter & Dart  
